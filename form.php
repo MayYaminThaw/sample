@@ -1,4 +1,5 @@
 <?php 
+
 	if($_POST['submit'])
 	{
 		$char=$_POST['char'];
