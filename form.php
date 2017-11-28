@@ -15,6 +15,7 @@
 		}
 		print $str;
 		
+		print "Hello World";
 	}
  ?>
 <!DOCTYPE html>
