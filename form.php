@@ -14,6 +14,7 @@
 			$str.=$marr[$arr[$a]];
 		}
 		print $str;
+		print "1";
 		
 	}
  ?>
